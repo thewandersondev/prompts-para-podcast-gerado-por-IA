@@ -12,7 +12,7 @@
     Preview do Podcast
 </p>
 
-# Projeto Podcast Gerado por I.A.s
+# Projeto Podcast Gerado por I.A.s - DIO
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
